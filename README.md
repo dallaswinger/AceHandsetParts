@@ -6,7 +6,7 @@ Replacement mag lever and mag release dimensionally accurate (enough) to stock p
 
 # Mods
 ## Flat Trigger
-a flat trigger that has 66.5mm length of pull at the break from shoe face to backstrap. Recommend shimming bottom to reduce pre-travel further. Original file based off of (NeverGMs)[https://github.com/NeverGM/ACE-VR-Handsets/blob/main/trigger_short_pretravel_.stl]
+a flat trigger that has 66.5mm length of pull at the break from shoe face to backstrap. Recommend shimming bottom to reduce pre-travel further. Original file based off of [NeverGMs](https://github.com/NeverGM/ACE-VR-Handsets/blob/main/trigger_short_pretravel_.stl)
 
 ## Trigger bar
 a trigger bar replacement that shortens overtravel by 1.12mm 
